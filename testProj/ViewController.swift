@@ -8,6 +8,7 @@
 
 import UIKit
 
+// MARK: ViewControllerクラス
 class ViewController: UIViewController {
 
 	override func viewDidLoad() {
